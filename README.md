@@ -6,7 +6,6 @@ Welcome to my portfolio repository! This repository showcases my work as a stude
 - [About Me](#about-me)
 - [Portfolio](#portfolio)
 - [Contact Me](#contact-me)
-- [Getting Started](#getting-started)
 - [License](#license)
 
 ## About Me
@@ -17,13 +16,6 @@ The portfolio section displays a collection of my projects. Each project comes w
 
 ## Contact Me
 To get in touch with me, you can find my contact information and a form to send me a message.
-
-## Getting Started
-To run the portfolio locally, follow these steps:
-
-1. Clone this repository: `git clone https://github.com/your-username/your-portfolio.git`
-2. Navigate to the project directory: `cd your-portfolio`
-3. Open the `index.html` file in your web browser.
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the license terms.

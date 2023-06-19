@@ -5,12 +5,11 @@
 }
 .section:last-of-type {
     padding-bottom: 4rem;
-}
-    
+} 
 /* hero background image */
 .bgimage {
-    height:100vh;
-    background: url('images/heroImage.jpeg');
+    height:95vh;
+    background: url('images/heroimage.jpeg');
     background-size:cover;
     position:relative;
     padding: 0;
@@ -32,7 +31,6 @@
     transform: translate(-50%, -50%);
     color: white;
 }
-
 .image_about {
     width: 75%;
 }
