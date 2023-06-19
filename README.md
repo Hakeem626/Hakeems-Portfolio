@@ -1,4 +1,4 @@
-# Hakeem Ouaddi Portfolio
+# Hakeem Ouaddi's Portfolio
 
 Welcome to my portfolio repository! This repository showcases my work as a student web developer and provides information about me and my projects.
 
